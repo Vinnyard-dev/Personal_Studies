@@ -1,2 +1,5 @@
-# Personal_Studies
-Repository to store and compile my personal learnings, not necessarily in chronological order of learning, just in order that I judge to be the best organization.
+# Welcome to my compendium! 🐁
+Here, I'll list all my studies, projects, and challenges, as well as my journey as a dev!
+Feel free to follow my studies and, who knows, learn a little bit with me! :)
+
+# Algoritms
