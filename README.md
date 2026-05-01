@@ -15,3 +15,19 @@ Here you can find all my projects learning and using portugol!
 
   >Result
 
+## Code 2
+
+<img width="841" height="280" alt="image" src="https://github.com/user-attachments/assets/04e44534-a682-455c-a27b-b266b9afb8c6" />
+<br/>
+
+   >Code
+>
+<br/>
+<img width="545" height="353" alt="image" src="https://github.com/user-attachments/assets/7535589e-2d7a-407f-942f-d50a86909653" />
+<br/>
+
+  >Result
+>
+
+<br/>
+
