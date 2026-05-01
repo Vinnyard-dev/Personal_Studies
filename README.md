@@ -5,4 +5,4 @@ Feel free to follow my studies and, who knows, learn a little bit with me! :)
 
 # Algoritms
 <br>
-<a href="https://github.com/Vinnyard-dev/Personal_Studies/tree/Portugol">Portugol</a>
+<a href="https://github.com/Vinnyard-dev/Personal_Studies/tree/Portugol" style="color: #ffffff">Portugol</a>
